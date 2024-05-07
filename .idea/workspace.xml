@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33615c9d-2b7e-4be1-9905-e2eb0d1a1e6a" name="Changes" comment="comenzando clases con herencia">
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/radioalura/principal/Principal.java" afterDir="false" />
+    <list default="true" id="33615c9d-2b7e-4be1-9905-e2eb0d1a1e6a" name="Changes" comment="Realizando Test">
+      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/radioalura/modelos/MisFavoritos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/radioalura/modelos/Cancion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/radioalura/modelos/Cancion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/radioalura/modelos/Podcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/radioalura/modelos/Podcast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/radioalura/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/radioalura/principal/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Principal.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ignore.virus.scanning.warn.message": "true",
@@ -64,12 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1715055809200</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Realizando Test">
+      <option name="closed" value="true" />
+      <created>1715056297165</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715056297165</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="iniciando" />
     <MESSAGE value="comenzando clases con herencia" />
-    <option name="LAST_COMMIT_MESSAGE" value="comenzando clases con herencia" />
+    <MESSAGE value="Realizando Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Realizando Test" />
   </component>
 </project>
